@@ -13,5 +13,5 @@ If no shares are found you could still tell the passenger:
 *Did you know that you can offer to share a taxi to city to other passengers of your flight? 
 
 **TAGLINE**
-Car Pooling - jump in the water's fine
+Car Pooling - jump in the water's fine.       
 Enjoy Enviromental Responsibility - don't drive alone 
