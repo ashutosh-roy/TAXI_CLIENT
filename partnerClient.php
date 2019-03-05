@@ -1,13 +1,6 @@
 <?php
 
-/**
- * Copyright 2017 @ Caribation SRL
- * Author: Richard Urban
- * Date: 27.08.2017
- *
- * A simple class to check availability of Taxi Shares for a specific flight and date combination.
- * You must obtain the credentials (protected vars) from Taxi Share to make it work
- */
+
 class partnerClient
 {
 
