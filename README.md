@@ -11,7 +11,21 @@ An added value at zero cost to the agency.
 
 If no shares are found you could still tell the passenger:
 *Did you know that you can offer to share a taxi to city to other passengers of your flight? 
-
+# Problems 
+-Costly Travelling Expenses.
+-Air Pollution.
+-Fuel wastage
+-surcharge Problems
+-Inavailability of cabs
+-Too Much Traffic 
+# Solution
+pooling with other passengers so that :
+-Travelling cost reduces
+-less air pollution
+-Saving fuel
+-Less Surcharge problems
+-Various Cabs Available
+-less Traffic
 **TAGLINE**
 Car Pooling - jump in the water's fine.       
 Enjoy Enviromental Responsibility - don't drive alone 
